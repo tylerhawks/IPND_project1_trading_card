@@ -1,1 +1,7 @@
-/* add your CSS here */
+.card {
+  border: 1px solid lightgrey;
+}
+
+.stats {
+  border: 1px solid lightgrey;
+}
