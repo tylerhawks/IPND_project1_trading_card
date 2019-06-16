@@ -10,6 +10,8 @@
 .card h3 {
   font-size: 20pt;
   margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
 }
 
 .card img {
@@ -31,10 +33,6 @@
 
 #interesting {
   font-style: italic;
-}
-
-#description {
-
 }
 
 .stats ul {
